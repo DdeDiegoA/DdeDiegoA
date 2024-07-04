@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/ec/d0/19/ecd019cb60258acf2728fd0739bd803f.jpg"  />
+  <img height="200" src="https://i.pinimg.com/originals/ec/d0/19/ecd019cb60258acf2728fd0739bd803f.jpg"  />
 </div>
 
 ###
@@ -35,8 +35,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DdeDiegoA&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DdeDiegoA&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=DdeDiegoA&theme=onedark&column=3&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DdeDiegoA&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DdeDiegoA&theme=onedark&column=2&row=1&margin-w=5&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DdeDiegoA&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
