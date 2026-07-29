@@ -36,9 +36,9 @@ Construyo herramientas que piensan. Tauri + React + AI agents.
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DdeDiegoA&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak" />
-  <img src="https://github-readme-stats-nu.vercel.app/api/top-langs?username=DdeDiegoA&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages" />
+  <img src="https://github-readme-stats-fork.vercel.app/api/top-langs?username=DdeDiegoA&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DdeDiegoA&theme=onedark" height="150" alt="trophies" />
-  <img src="https://github-readme-stats-nu.vercel.app/api?username=DdeDiegoA&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" alt="stats" />
+  <img src="https://github-readme-stats-fork.vercel.app/api?username=DdeDiegoA&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" alt="stats" />
 </p>
 
 ---
